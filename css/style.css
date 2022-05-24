@@ -197,7 +197,7 @@ box-sizing: border-box;
 
   .tinytina {
     display: grid;
-    background-image: url("..img/Image_1@2x.png");
+    background-image: url("../img/Image_1@2x.png");
     background-position: top 0;
     background-size: 100%;
     height: 55vw;
@@ -409,7 +409,7 @@ box-sizing: border-box;
 
   .ostakohe {
     display: grid;
-    background-image: url("..img/Image_16@2x.jpg");
+    background-image: url("../img/Image_16@2x.jpg");
     background-position: top 0;
     background-size: 100%;
     height: 80vh;
